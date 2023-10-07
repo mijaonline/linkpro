@@ -6,7 +6,7 @@ name: Michael Mondala  # Name of your website
 tagline: Links  # Set your preferred page title
 description: Passionate about web development, design, and WordPress. Sharing insights, and tutorials.  # Also used as a meta description
 favicon: https://picsum.photos/100 # Path / URL to the favicon of your website (e.g., 'assets/images/favicon.png')
-logo: https://picsum.photos/200 # Path / URL to the logo (e.g., 'assets/images/logo.png')
+logo: assets/images/MikeDP.jpg # Path / URL to the logo (e.g., 'assets/images/logo.png')
 url: https://github.com/mijaonline/linkpro # URL of your website
 ga4: G-XXXXXXX # Google Analytics 4 measurement ID (optional). Remove it if not needed.
 twitter:
